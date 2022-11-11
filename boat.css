@@ -1,0 +1,236 @@
+.home{
+    height:4000px;
+    background-color: transparent
+}
+.second_nav{
+    display: flex;
+    height: 70px;
+
+padding-top: 26px;    padding-left: 3%;
+}
+.rightnav{
+    display: flex;
+    left: 0;
+    align-items: center;
+}
+.rightnav h4{
+    font-size: large;
+    font-weight: 500;
+}
+.hero{
+    /* height: 1100px; */
+    background-color: #fff;
+    display: flex;
+    padding-bottom: 1%;
+
+}
+.hero1{
+    flex: 0.35;
+    border: 2px solid black;
+    display: flex;
+}
+.hero1 .lefti{
+/* background-color: aquamarine; */
+}
+.hero1 .righti{
+    /* hjnc */
+}
+.headphone{
+    width: 78%;
+    height: 50%;
+    float: right;
+    border: 1px solid #cacaca;
+margin: 1%;
+margin-top: 2%;
+}
+.choosecolor{
+    font-size: 20px;
+    color: #333333;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 19px;
+}
+select{
+    width: 154px;
+    border-radius: 3px;
+    padding: 0 0 0 10px;
+    height: 40px;
+    display: block;
+    font-size: 14px;
+    border: 1px solid #cacaca;
+    -webkit-transition: border-color ease-in-out .15s;
+    -moz-transition: border-color ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s;
+    transition: border-color ease-in-out .15s;
+    background: #ffffff;
+    margin-bottom: 25px;
+
+}
+.hero2{
+    padding-top: 2%;
+    flex: 0.65;
+    padding-left: 2%;
+    border: 2px solid black;
+}
+.boathero2{
+    font-size: 25px;
+    line-height: 24px;
+    color: #333333;
+    word-wrap: break-word;
+    margin-bottom: 30px;
+}
+.bp{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333333;
+
+}
+.cc{
+    color: #f07431;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.border p {
+    font-size: 19px;
+}
+.grabdeal button{
+    background: #f07431;
+    color: #ffffff;
+    width:100px;
+    height:40px;
+    border:none;
+    font-weight: 400;
+}
+
+.border{
+    border: 1px grey;
+    display: flex;
+    justify-content: space-between;
+    padding:1%;
+}
+.key_feature{
+    padding-left: 3%;
+    height:300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+        background-color: #fff;
+        display: flex;
+}
+.left{
+    flex: 0.7;
+    padding-top: 3%;
+        padding-bottom: 1%;;
+}
+.right{
+    flex: 0.3;
+}
+.right img{
+    width: 100%;
+}
+.key{
+    font-size: 24px;
+    line-height: 21px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 8px;
+
+}
+.page{
+    display: flex;
+    justify-content: space-between;
+}
+/* .refer{
+} */
+.features{
+    width:40%;
+    display: flex;
+    justify-content: space-between;
+}.f1{
+    display: flex;
+}
+.f1 p {
+    font-size: 24px;
+    line-height: 21px;
+    margin-top: 7px;
+    padding-right: 3px;
+}
+.f2{
+    display: flex;
+}
+.f2 p {
+    font-size: 24px;
+    line-height: 21px;
+    margin-top: 7px;
+    padding-right: 3px;
+}
+.border-box{
+    margin-top: 5%;
+}
+.txt{
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 2%;
+}
+.txt p{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.specs{
+    height:700px;
+    background-color: #fff;
+    display: flex;
+    margin-bottom: 2%;
+}
+.specs .left{
+    flex: 0.25;
+    padding-left: 3%;
+    font-weight: bold;
+    font-size: larger;
+}
+.specs .right{
+    flex: 0.75;
+}
+.specs .right img {
+    width:60%;
+    height: 100%;
+}
+
+.similar{
+    height: 60px;
+    background-color: #fff;
+    display: flex;
+    align-self: center;
+    padding-top: 1%;
+}
+.f11{
+    font-size: 18px;
+    display: flex;
+    font-weight: 400;
+    align-self: center;
+    margin: auto;
+}
+.f11 p {
+    margin-right: 10px;
+}
+
+.heading{
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: bold;
+    color: #333333;
+    margin: 27px 0;
+    padding-left: 23%;
+
+}
+.sliders{
+    height: 600px;
+    background-color: cornsilk;
+}
+
+
+.footdisp{
+    display: flex;
+    align-items: center;
+}
