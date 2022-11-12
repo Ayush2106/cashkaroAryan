@@ -100,6 +100,7 @@ select{
     align-items: center;
     gap: 3rem;
     width: 90%;
+    /* background-color: yellow; */
 }
 @media screen and (max-width:1450px) {
     .hero2item{
@@ -128,9 +129,7 @@ select{
     margin: auto;
     /* background-color: #f07431; */
    }
-   .hero1 .righti{
-    /* background-color: yellow; */
-   }
+   
    .headphone{
     width: 60%;
     padding-right: 5%;
@@ -192,10 +191,24 @@ float: left;
 }
 
 .border{
-    /* border: 1px grey; */
+    border: 1px grey;
     display: flex;
     justify-content: space-between;
     padding:1%;
+    width: 100%;
+}
+@media screen and (min-width:1458px){
+.border{
+    height: 17%;
+
+}
+.border-box{
+    height: 300px;
+    width: 40%;
+    padding: 2%;
+}
+    
+
 /* height: 55px; */
     /* width: 350px; */
 }
@@ -272,7 +285,10 @@ float: left;
     padding-right: 3px;
 }
 .border-box{
-    margin-top: 5%;
+    margin-top: 10%;
+    /* border: 2px solid black; */
+   
+    
 }
 .txt{
     background-color: #fff;
